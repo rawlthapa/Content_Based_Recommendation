@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib  # Optional, if you're using it for visualizations
+seaborn     # Optional, if you’re using it for data visualization
+jupyterlab  # If you're using Jupyter Lab for notebooks
+notebook    # If you're using Jupyter Notebook

@@ -1,0 +1,28 @@
+# Ignore data and model files
+data/
+models/
+
+# Ignore Jupyter notebook checkpoints and output
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore virtual environments
+env/
+venv/
+.env/
+
+# Python bytecode files
+*.py[cod]
+__pycache__/
+
+# Ignore system files
+*.DS_Store
+*.log
+
+# Ignore generated requirements files (optional)
+requirements.txt~
+
+# Ignore large files or datasets (customize if needed)
+*.csv
+*.zip
+*.tar.gz
